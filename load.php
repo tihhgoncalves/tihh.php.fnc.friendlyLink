@@ -3,7 +3,7 @@
  * Função em PHP transforma qualquer string numa URL de link amigável
  *
  *
- * Versão: 1.0
+ * Versão: 1.0.0
  *
  * @param $str
  * @return string
